@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69 48">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="icon_11" data-name="icon 11">
+      <polygon class="cls-1" points="2 46 67 46 67 2 45.53 3 2 3 2 46"/>
+      <polyline class="cls-1" points="3.32 44.55 28.84 26.81 38.54 33.78 52.91 18.25 67 44.55"/>
+      <ellipse class="cls-2" cx="17.5" cy="14" rx="3.5" ry="4"/>
+    </g>
+  </g>
+</svg>

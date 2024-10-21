@@ -24,7 +24,7 @@
             height: 100%;
             margin: 0;
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            background: url('Images/Background.webp') no-repeat center center fixed;
+            background: url('https://joshuboi77.github.io/Website/background.webp') no-repeat center center fixed;
             background-size: cover;
             color: #e0e0e0;
             display: flex;
